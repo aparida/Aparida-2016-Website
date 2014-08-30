@@ -1,4 +1,4 @@
-avipar.github.io
+aparida.com
 ================
 
 My personal Website
