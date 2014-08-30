@@ -1,0 +1,1522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"opacity-work"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"input",
+				"input	input - email"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Un",
+				"unlimitedAccess"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"Fb",
+				"feedbackBtn"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"pro",
+				"profileBar"
+			],
+			[
+				"tex-",
+				"text-transform"
+			],
+			[
+				"recom",
+				"recommDiv"
+			],
+			[
+				"proc",
+				"processList"
+			],
+			[
+				"inp",
+				"InputListField"
+			],
+			[
+				"Recommended",
+				"recommended"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"moz-b",
+				"-moz-border-radius:   (property)"
+			],
+			[
+				"web",
+				"-webkit-border-radius:   (property)"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background	background-attachment: scroll/fixed"
+			],
+			[
+				"fl",
+				"float	float: left/right/none"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"border-rad",
+				"-moz-border-radius:   (property)"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"sub",
+				"submit-li-btn"
+			],
+			[
+				"login",
+				"login-area-wrapper"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"save",
+				"save-errors"
+			],
+			[
+				"slide",
+				"slider-wrapper"
+			],
+			[
+				"5px",
+				"5px"
+			],
+			[
+				"last",
+				"last-testi-box"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"first",
+				"first-path"
+			],
+			[
+				"insert",
+				"insertAfter"
+			],
+			[
+				"1px",
+				"1px"
+			],
+			[
+				"email-box",
+				"email-box-input"
+			],
+			[
+				"display",
+				"display	display: inline"
+			],
+			[
+				"tes",
+				"text-shadow"
+			],
+			[
+				"lo",
+				"login-button"
+			],
+			[
+				"search",
+				"search-input"
+			],
+			[
+				"dash",
+				"dashboard-search-result"
+			],
+			[
+				"lst",
+				"list	list-style-type: roman-alpha-greek"
+			],
+			[
+				"rest",
+				"rest-box"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"content",
+				"content-tab"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"Helvetica-Neue-",
+				"Helvetica-Neue-C"
+			],
+			[
+				"Helvetica-Neue-t",
+				"Helvetica-Neue-Lt"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"pa",
+				"padding	padding: T R B L"
+			],
+			[
+				"lett",
+				"letter-spacing"
+			],
+			[
+				"Helvetica-Neue-C",
+				"Helvetica-Neue-CB"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"margin-",
+				"margin-top:   (property)"
+			],
+			[
+				"scr",
+				"scripts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Avipar/Library/Caches/Cleanup At Startup/Transmit/9DAB207B-E2A4-40B6-A2CD-3A40EBDA0C8C/work.html",
+			"settings":
+			{
+				"buffer_size": 20593,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"create",
+				"Create file from Template"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ex",
+				"Html Export: Current File"
+			],
+			[
+				"html",
+				"Html Export: Current File"
+			],
+			[
+				"pakae",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"Snippet: div",
+				"Snippet: <div>"
+			],
+			[
+				"mark",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"todo",
+				"Show TODOs in project and open files"
+			],
+			[
+				"tweet",
+				"Tweet"
+			],
+			[
+				"t",
+				"Twitter timeline"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"goto",
+				"Package Control: Add Repository Channel"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"twi",
+				"Twitter timeline"
+			],
+			[
+				"twee",
+				"Tweet"
+			],
+			[
+				"dec",
+				"Decorate: Decorate text with border"
+			],
+			[
+				"bufmo",
+				"Bufmod: Decorate text with border"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"PACKAGE",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"instL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Avipar/Self-Temp/aparida.com/Production/blogs.html",
+		"/Users/Avipar/Self-Temp/aparida.com/Production/work.html",
+		"/Users/Avipar/Self-Temp/aparida.com/Production/index.html",
+		"/Users/Avipar/Desktop/jsquery.js",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Avipar/Self-Temp/aparida.com/Development/index.html",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Avipar/Self-Temp/aparida.com/Development/Aparida.sublime-workspace",
+		"/Users/Avipar/Self-Temp/aparida.com/Development/Aparida.sublime-project",
+		"/Users/Avipar/Self-Temp/aparida.com/Aparida.sublime-workspace",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/User/Specificity Calculator.sublime-settings",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/Aparida.sublime-project",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/Aparida.sublime-workspace",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/skeleton.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/flexslider.css",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/Specificity Calculator/Specificity Calculator.sublime-settings",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/prettyPhoto.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/elastislide.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/animation.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/javascripts/jquery.flexslider.js",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/custom.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/demo.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/javascripts/jquery.tweet.js",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/javascripts/jquery.tweets.js",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/base.css",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/javascripts/jquery.quote_rotator.js",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/javascripts/nbw-parallax.js",
+		"/Users/Avipar/Self-Temp/MYOWNSITE/stylesheets/layout.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/lungo2/kitchen-sink/index.package.html",
+		"/Applications/Pixa.app/Contents/Info.plist",
+		"/Users/Avipar/Essentials/=Assets=/=JS Stuffs + PluG!n$=/growl-jquery/index.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/css/foundation.css",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/feed.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/sidebar.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/grid.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/orbit.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/readme.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/banner.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/banded.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/blog.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/src/contact.html",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/css/helper.css",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/css/foundation.css",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/css/app.css",
+		"/Users/Avipar/Essentials/=Assets=/==HTML5TEMPLATE==/css/normalize.css",
+		"/Users/Avipar/Self-Temp/Mygola/HomepageUI/Homepage UI/css/helper.css",
+		"/Users/Avipar/Self-Temp/Mygola/HomepageUI/Homepage UI/css/foundation.css",
+		"/Users/Avipar/Self-Temp/Mygola/HomepageUI/Homepage UI/css/ie.css",
+		"/Users/Avipar/Self-Temp/Mygola/HomepageUI/Homepage UI/css/main.css",
+		"/Users/Avipar/Self-Temp/Mygola/HomepageUI/Homepage UI/css/normalize.css",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/css/bubbletip.css",
+		"/Users/Avipar/Library/Application Support/Google/Chrome/Profile 3/User StyleSheets/Custom.css",
+		"/Users/Avipar/Library/Application Support/Google/Chrome/Profile 7/User StyleSheets/Custom.css",
+		"/Users/Avipar/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/css/styles.css",
+		"/Volumes/OSX Lion/Users/avinashparida/Dropbox/Apps/Servus for Mac/20121012-01123883-jpg/index.html",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/topbar.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/Mygola/NewLandingPage UI/teaser/stylesheets/sprites.css",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/Mygola/NewLandingPage UI/teaser/stylesheets/foundation.min.css",
+		"/Volumes/OSX Lion/Users/avinashparida/Essentials/=Assets=/=JS Stuffs + PluG!n$=/xing-wysihtml5-fb0cfe4/examples/advanced.html",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/index.html",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/weird.html.html",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/SublimeOnSaveBuild/README.md",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/day1.js",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/ninetyday.js",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/Avipar/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/results.html",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/howitworks.html",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/howWtWorks.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/main-content.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/pykDayone.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/step1.html",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/formJob.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/css/editor.css",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/jobdesc.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/relevantSkills.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/previewRelevantSkills.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/trackresumes.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/hrpopup.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/feedback.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populateLogin.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populateForgot.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populateunsub.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populatesetnewpassword.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populateresub.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populateReset.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/js/populateregister.js",
+		"/Volumes/OSX Lion/Users/avinashparida/Self-Temp/WT UI/WT FINAL SVN/login.html",
+		"/Volumes/OSX Lion/Users/old Usr/Downloads/==E-Mail==/wt-home/about.html",
+		"/Volumes/OSX Lion/Users/old Usr/Downloads/==E-Mail==/wt-home/css/whistletalk.css",
+		"/Users/Avipar/Library/Application Support/Sparrow/avinash3006@gmail.com.sparrowdb/Cache/INBOX/18773/2/091112 _ Privacy Policy.doc",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/growl-popup.js",
+		"/Users/avinashparida/Self-Temp/Mygola/worldMap Teaser/worldmap/css/style.css",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/result-main-content.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/hrpopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/addSkillPopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/locationpopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/css/reveal.css",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/recommendedUsers.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/coverLetter.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/resltsfinalPopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/resultReferredByUser.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/profileUserResult.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/main-content.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/jobDescriptionStep2.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/topbar.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/index.html",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/referredByUser.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/css/jquery.gritter.css",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/populateReset.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/populateresub.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/populatesetnewpassword.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/populateLogin.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/populateForgot.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/populateregister.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/rmpopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/trackresumes.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/formTarget.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/jobLocPopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/js/workpopup.js",
+		"/Users/avinashparida/Self-Temp/WT UI/SVN-WT-UI/avinash/css/select2.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"relevantSkills.js",
+			"previewRelevantSkills.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"qr",
+			"hover",
+			"allwork",
+			"hover",
+			"content",
+			"elasticide",
+			"share-widget",
+			"share-wid",
+			"blog-area",
+			"mailto",
+			"h5",
+			"email",
+			"545",
+			"h5",
+			"-webkit-transition",
+			"600%",
+			"width:600%;",
+			"slides",
+			"overflow",
+			"flex-viewport",
+			"overflow",
+			"overflow: hidden",
+			"logo",
+			"copyright",
+			"	\n",
+			"nav",
+			"textarea",
+			"about",
+			"time_ago",
+			"just now",
+			"'just now'",
+			"::selec",
+			"columns",
+			"sixteen",
+			"theparida",
+			"contact",
+			"cintact",
+			"buttons",
+			"shopOwlses",
+			"work",
+			"separator",
+			"social-intro",
+			"social-into",
+			"mainnav",
+			"nav",
+			"you don",
+			"you dont be",
+			"you dont beli",
+			"bg1.jpg",
+			"bg.png",
+			"bg1",
+			"carousel",
+			"menupointer",
+			"960px",
+			"img",
+			"a",
+			"img",
+			"td.bt-content",
+			"open sans",
+			"open ",
+			"980px",
+			"960px",
+			"twelve",
+			"tweleve",
+			"textarea",
+			"textara",
+			"super+a",
+			"img-wt-work",
+			"wt-about.png",
+			"renderMessageFeeds",
+			"TEXTAREA",
+			"rearrange-div-timeline",
+			"min-height",
+			"footer",
+			"rearrange-div-timeline",
+			".rearrange-div-timeline",
+			"pattern.jpg",
+			"pattern.png",
+			".w-banner-button",
+			"top-bar",
+			"font-weight: 200",
+			"font-weight: 300",
+			"font-weight: 300, 500",
+			"font-weight: 300",
+			"refreshBtn",
+			"refresh",
+			"refreshBtn",
+			"refresh",
+			"skill sets",
+			"skill set",
+			"link my facebook",
+			"facebook",
+			"right",
+			"addManager",
+			"body",
+			"my recommendations",
+			"my recommendation",
+			"empl",
+			"rating_radio",
+			"ClosedetailsButtonResult",
+			"detailsbuttonres",
+			"detailsButtonResult",
+			"showdetails",
+			"#timeline-embed",
+			"good",
+			"forwarded",
+			"forweded",
+			"skillsetDiv",
+			"avinash",
+			"aviash",
+			"co-workers",
+			"co-worker",
+			"co-workers ",
+			"co-workers who know",
+			"coworkers who know",
+			"shareApplyWrapper",
+			"jobparticularsDiv",
+			"margin-bottom",
+			"viewAllDiv",
+			"23",
+			".av-personDetails h3",
+			"av-personDetails",
+			"20%",
+			"av-personDetails",
+			"you will be referred by",
+			"you will be refferred by",
+			"you will be reffered by",
+			"ibm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"		\n",
+			"rearrange-div-timeline-new",
+			"pattern.png",
+			"pattern.jpg",
+			"\"http://www.cadillac.com",
+			"www.cadillac.com",
+			"img/",
+			"",
+			"static/images/sprite-master.png",
+			"footer",
+			"answerListView",
+			"<li><a href=\"https://www.facebook.com/gohachi\" title=\"\" class=\"fb\" style=\"padding:0px 0px 0 0 ;\" ></a></li>",
+			"profile-pic.png",
+			"profile-pic1.png",
+			"lt-tabs",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Avipar/Library/Caches/Cleanup At Startup/Transmit/9DAB207B-E2A4-40B6-A2CD-3A40EBDA0C8C/work.html",
+					"settings":
+					{
+						"buffer_size": 20593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "a77d101a",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.67,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 26.0
+	},
+	"output.specificity":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"flex",
+				"stylesheets/flexslider.css"
+			],
+			[
+				"ske",
+				"stylesheets/skeleton.css"
+			],
+			[
+				"fle",
+				"stylesheets/flexslider.css"
+			],
+			[
+				"animation",
+				"stylesheets/animation.css"
+			],
+			[
+				"ani",
+				"stylesheets/animation.css"
+			],
+			[
+				"readm",
+				"readme.html"
+			],
+			[
+				"docs",
+				"docs.html"
+			],
+			[
+				"app",
+				"css/app.css"
+			],
+			[
+				"css",
+				"css/app.css"
+			],
+			[
+				"founda",
+				"css/foundation.css"
+			],
+			[
+				"norm",
+				"css/normalize.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"bubble",
+				"css/bubbletip.css"
+			],
+			[
+				"sty",
+				"css/styles.css"
+			],
+			[
+				"other",
+				"js/otherFriends.js"
+			],
+			[
+				"top",
+				"js/topbar.js"
+			],
+			[
+				"ta",
+				"js/tabsStep3.1.js"
+			],
+			[
+				"more",
+				"js/moreButtons.js"
+			],
+			[
+				"recom",
+				"js/recommendedUsers.js"
+			],
+			[
+				"tabs",
+				"js/tabsStep3.js"
+			],
+			[
+				"step",
+				"step3.html"
+			],
+			[
+				"sprit",
+				"stylesheets/sprites.css"
+			],
+			[
+				"spri",
+				"stylesheets/sprites.css"
+			],
+			[
+				"foun",
+				"stylesheets/foundation.min.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sett",
+				"settings.html"
+			],
+			[
+				"step1",
+				"step1.html"
+			],
+			[
+				"form",
+				"js/formJob.js"
+			],
+			[
+				"how",
+				"js/howWtWorks.js"
+			],
+			[
+				"main",
+				"js/main-content.js"
+			],
+			[
+				"editor",
+				"css/editor.css"
+			],
+			[
+				"job",
+				"js/jobdesc.js"
+			],
+			[
+				"tra",
+				"js/trackresumes.js"
+			],
+			[
+				"hr",
+				"js/hrpopup.js"
+			],
+			[
+				"styles",
+				"css/styles.css"
+			],
+			[
+				"log",
+				"js/populateLogin.js"
+			],
+			[
+				"login",
+				"login.html"
+			],
+			[
+				"home",
+				"home.html"
+			],
+			[
+				"wh",
+				"home/css/whistletalk.css"
+			],
+			[
+				"stye",
+				"css/styles.css"
+			],
+			[
+				"grow",
+				"js/growl-popup.js"
+			],
+			[
+				"sy",
+				"css/styles.css"
+			],
+			[
+				"st",
+				"css/styles.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"result",
+				"js/result-main-content.js"
+			],
+			[
+				"skill",
+				"js/addSkillPopup.js"
+			],
+			[
+				"loc",
+				"js/locationpopup.js"
+			],
+			[
+				"popup",
+				"js/hrpopup.js"
+			],
+			[
+				"reco",
+				"js/recommendedUsers.js"
+			],
+			[
+				"cover",
+				"js/coverLetter.js"
+			],
+			[
+				"recomm",
+				"js/recommendedUsers.js"
+			],
+			[
+				"work",
+				"js/workpopup.js"
+			],
+			[
+				"rm",
+				"js/rmpopup.js"
+			],
+			[
+				"filter",
+				"js/filter.js"
+			],
+			[
+				"file",
+				"js/filter.js"
+			],
+			[
+				"regis",
+				"js/populateregister.js"
+			],
+			[
+				"resub",
+				"js/populateresub.js"
+			],
+			[
+				"reset",
+				"js/populateReset.js"
+			],
+			[
+				"forgot",
+				"js/populateForgot.js"
+			],
+			[
+				"resubs",
+				"resubscribe.html"
+			],
+			[
+				"setnew",
+				"js/populatesetnewpassword.js"
+			],
+			[
+				"se",
+				"setnewpassword.html"
+			],
+			[
+				"set",
+				"setnewpassword.html"
+			],
+			[
+				"selec",
+				"css/select2.css"
+			],
+			[
+				"style",
+				"css/styles.css"
+			],
+			[
+				"jobd",
+				"js/jobdesc.js"
+			],
+			[
+				"trac",
+				"js/trackresumes.js"
+			],
+			[
+				"track",
+				"js/trackresumes.js"
+			],
+			[
+				"jobde",
+				"js/jobdesc.js"
+			],
+			[
+				"re",
+				"css/reveal.css"
+			],
+			[
+				"all",
+				"js/Allpopup.js"
+			],
+			[
+				"targ",
+				"js/formTarget.js"
+			],
+			[
+				"rec",
+				"js/recommendedUsers.js"
+			],
+			[
+				"recc",
+				"/Users/avinashparida/Self-Temp/Kshitiz/pickme-clickme-educateme/index.html"
+			],
+			[
+				"final",
+				"js/finalSelection.js"
+			],
+			[
+				"less",
+				"kohana/static/less/itinerary-less.less"
+			],
+			[
+				"planner",
+				"kohana/static/less/planner-less.less"
+			],
+			[
+				"itinerary.php",
+				"kohana/website/application/classes/controller/itinerary/itinerary.php"
+			],
+			[
+				"left",
+				"kohana/website/application/views/templates/leftBarFull.php"
+			],
+			[
+				"mygola.php",
+				"kohana/modules/partner/classes/partner/mygola.php"
+			],
+			[
+				"itinerary.ph",
+				"kohana/website/application/classes/controller/itinerary/itinerary.php"
+			],
+			[
+				"itinerar",
+				"kohana/static/scripts/widgets/itineraryviewer.js"
+			],
+			[
+				"configra",
+				"kohana/website/application/views/widgets/share/configurableShareWidget.php"
+			],
+			[
+				"",
+				"kohana/static/less/itinerary.less"
+			],
+			[
+				"pre",
+				"kohana/static/styles/prettyPhoto.css"
+			],
+			[
+				"pretty",
+				"kohana/static/scripts/jquery.prettyPhoto.js"
+			],
+			[
+				"itineraryviewe",
+				"kohana/static/scripts/widgets/itineraryviewer.js"
+			],
+			[
+				"sprite",
+				"kohana/static/less/sprite.less"
+			],
+			[
+				"poimetadata",
+				"kohana/website/application/views/itinerary/poiMetaData.php"
+			],
+			[
+				"itinerary",
+				"kohana/website/application/views/itinerary/itinerarycontrols.php"
+			],
+			[
+				"itinerary.less",
+				"kohana/static/less/itinerary.less"
+			],
+			[
+				"core",
+				"kohana/system/classes/kohana/core.php"
+			],
+			[
+				"database.php",
+				"kohana/modules/database/config/database.php"
+			],
+			[
+				"element",
+				"kohana/static/less/elements.less"
+			],
+			[
+				"itinerary.les",
+				"kohana/static/less/itinerary.less"
+			],
+			[
+				"itinerary-les",
+				"kohana/static/less/itinerary-less.less"
+			],
+			[
+				"itine",
+				"kohana/website/application/views/itinerary/itineraryplayer.php"
+			],
+			[
+				"includes",
+				"kohana/modules/commons/config/includes.php"
+			],
+			[
+				"eleme",
+				"kohana/static/less/elements.less"
+			],
+			[
+				"elem",
+				"kohana/static/less/elements.less"
+			],
+			[
+				"elements",
+				"kohana/static/less/elements.less"
+			],
+			[
+				"bootstra",
+				"kohana/website/application/bootstrap.php"
+			],
+			[
+				"acco",
+				"kohana/static/styles/accordion.css"
+			],
+			[
+				"main.css",
+				"kohana/static/styles/main.css"
+			],
+			[
+				"itineraryhea",
+				"kohana/website/application/views/itinerary/itineraryheader.php"
+			],
+			[
+				"itin",
+				"kohana/website/application/views/itinerary/itinerarythumbnailholder.php"
+			],
+			[
+				"itiner",
+				"kohana/static/less/itinerary.less"
+			],
+			[
+				"itinerarycon",
+				"kohana/guidesite/application/classes/controller/itinerary/itinerarycontroller.php"
+			],
+			[
+				"intinera",
+				"kohana/website/application/views/itinerary/itineraryheader.php"
+			],
+			[
+				"ele",
+				"kohana/static/less/elements.less"
+			],
+			[
+				"itnerary",
+				"kohana/static/scripts/gs/gadgets/itinerary.js"
+			],
+			[
+				"sys",
+				"kohana/modules/commons/config/system.php"
+			],
+			[
+				"databa",
+				"kohana/modules/database/config/database.php"
+			],
+			[
+				"custom",
+				"css/custom.css"
+			],
+			[
+				"le",
+				"less/custom.less"
+			],
+			[
+				"e",
+				"less/elements.less"
+			],
+			[
+				"applica",
+				"app/controllers/marcal/application_controller.rb"
+			],
+			[
+				"tts.css",
+				"templates/TTS-ideas/css/tts.css"
+			],
+			[
+				"slideout",
+				"templates/txtWeb-home/slideouttab/slideouttab.css"
+			],
+			[
+				"txtwebla",
+				"templates/txtWeb-home/css/txtWebLayout.css"
+			],
+			[
+				"newu",
+				"templates/txtWeb-home/css/newuideveloper.css"
+			],
+			[
+				"mod_",
+				"modules/mod_forumactivity/mod_forumactivity.php"
+			],
+			[
+				"new",
+				"templates/txtWeb-home/css/newuideveloper.css"
+			],
+			[
+				"mod_forum",
+				"modules/mod_forumactivity/mod_forumactivity.php"
+			],
+			[
+				"newui",
+				"templates/txtWeb-home/css/newuideveloper.css"
+			],
+			[
+				"registration.css",
+				"templates/TTS-ideas/css/registration.css"
+			],
+			[
+				"registra",
+				"templates/TTS-staticpages/css/registration.css"
+			],
+			[
+				"kunena.forum",
+				"components/com_kunena/template/default_ex/kunena.forum.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true
+}
