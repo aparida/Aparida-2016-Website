@@ -837,11 +837,13 @@ SVG ICONS
   }
 
   .work-btn{
-    width: 75vw;
+    width: 100vw;
+    position: relative;
+    display: block;
+    margin: 0 auto;
   }
 
   .chkwork-btn{
-    margin: 70px 8%;
     font-size: 1em;
   }
 }
