@@ -799,12 +799,15 @@ SVG ICONS
 
 
 @media (max-width: 460px) {
+  body{
+    background: #fff;
+  }
   .coverphoto{
     visibility: hidden !important;
   }
 
   .logo img {
-    margin: 40px auto;
+     margin: 20px auto;
   } 
 
   .intro-content{
@@ -826,14 +829,14 @@ SVG ICONS
   }
 
   .social-icons{
-    margin: 30px auto;
+      margin: 10px auto 40px;
      width: 72vw;
      height: 40px;
   }
 
   .svg-icon-social {
-    width: 1.5em;
-    height: 1.5em;
+    width: 1.8em;
+    height: 1.8em;
   }
 
   .work-btn{
