@@ -800,14 +800,17 @@ SVG ICONS
 
 @media (max-width: 460px) {
   body{
-    background: #fff;
+    /*background: #fff;*/
+  }
+  .intro-avipar{
+      margin:20px auto;
   }
   .coverphoto{
     visibility: hidden !important;
   }
 
   .logo img {
-     margin: 20px auto;
+     margin: 40px auto;
   } 
 
   .intro-content{
@@ -830,7 +833,7 @@ SVG ICONS
 
   .social-icons{
       margin: 10px auto 40px;
-     width: 72vw;
+     width: 74vw;
      height: 40px;
   }
 
