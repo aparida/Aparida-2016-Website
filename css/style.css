@@ -621,7 +621,7 @@ Intro-Avipar
   font-size: 1.3em;
   color: #A1A1A1;
   line-height: 36px;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .intro-content p .bunty{
@@ -672,7 +672,7 @@ Intro-Avipar
   font-family: Helvetica Neue;
   font-size: 1.2em;
   color: #FFFFFF;
-
+  font-weight: 200;
   padding: 20px 50px;
   margin:20px 26%;
 }
