@@ -1,13 +1,13 @@
 body
 	{
-		background: #1F1F1F ;
+		background: #1F1F1F;
+   /* background-image: url(../images/header-bg.jpg) no-repeat center top;
     background-size: cover;
-    background-position: center center;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    background-position: center center;*/
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     position: relative;
     /*background-image:linear-gradient(90deg, #1F1F1F 0%, #676767 100%) ;*/
-    /*linear-gradient(to bottom, rgba(0,187,212,1) 0%, rgba(0,21,212,1) 100%);*/
     font-size: 16px;
 	}
 
@@ -78,21 +78,6 @@ strong {
   color: #ffffff;
 }
 
-.margin15{
-margin-bottom: 15px;
-}
-
-.margin40{
-margin-bottom: 40px;
-}
-
-.border8{
-  border-radius: 8px !important;
-}
-
-.bline{
-  border: 1px solid #ddd;
-} 
 
 /* ==========================================================================
 preloader section
@@ -623,7 +608,7 @@ Intro-Avipar
 }
 
 .intro-content h2{
-  font-family: Merriweather, serif;
+  font-family: Merriweather;
   font-size: 3em;
   color: #000000;
   letter-spacing: 1.71px;
@@ -632,11 +617,11 @@ Intro-Avipar
 }
 
 .intro-content p{
-  font-family: Open Sans, sans-serif;
+  font-family: Avenir-Light;
   font-size: 1.3em;
   color: #A1A1A1;
   line-height: 36px;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 .intro-content p .bunty{
@@ -684,10 +669,10 @@ Intro-Avipar
   height:74px;
   width: 307px;
   /* Check out my work: */
-  font-family: Open Sans;
+  font-family: Avenir-Light;
   font-size: 1.2em;
   color: #FFFFFF;
-  font-weight: 300;
+
   padding: 20px 50px;
   margin:20px 26%;
 }
@@ -729,11 +714,7 @@ SVG ICONS
   stroke-width: 1;
 }
 
-#primary-nav .svg-icon-social {
-  width: 0.8em;
-  height: 0.8em;
-}
- 
+
 
 .typed-cursor{
     opacity: 1;
@@ -811,10 +792,6 @@ SVG ICONS
   .chkwork-btn{
     margin: 70px 14%;
   }
-  .cd-primary-nav .social-icons {
-   visibility: hidden !important; 
-  
-  }
 }
 
 
@@ -842,10 +819,9 @@ SVG ICONS
   }
 
   .intro-content h2{
-    font-size: 1.6em;
+    font-size: 2em;
     letter-spacing: 1px;
     line-height: 1.5em;
-    font-weight: 900;
 
   }
 
@@ -876,17 +852,4 @@ SVG ICONS
   .chkwork-btn{
     font-size: 1em;
   }
-
-
-
-  .cd-primary-nav .social-icons {
-    display: none;
-  
-  }
-
-  .cd-project-title h2{
-    font-size: 2.0rem !important;
-  }
-
-
 }
