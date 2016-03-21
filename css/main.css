@@ -313,7 +313,7 @@ Medias
   .cd-projects-previews li {
     display: inline-block;
     height: 100%;
-    width: 50%;
+    width: 33.3%;
     float: left;
   }
   .cd-projects-previews li.selected {
@@ -400,19 +400,13 @@ Medias
 
 .cd-projects-previews li:nth-of-type(2) a,
 .cd-projects > li:nth-of-type(2) .preview-image {
-  background: #a8ae7e url(../images/hero.jpg) no-repeat center center;
+  background: #a8ae7e url(../images/integrate_hero.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .cd-projects-previews li:nth-of-type(3) a,
 .cd-projects > li:nth-of-type(3) .preview-image {
-  background: #e7d5a4;
-  background-size: cover;
-}
-
-.cd-projects-previews li:nth-of-type(4) a,
-.cd-projects > li:nth-of-type(4) .preview-image {
-  background: #835531;
+  background:  #a8ae7e url(../images/apistuff.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -475,12 +469,12 @@ Medias
   color: #fff;
   font-family: 'Merriweather', sans-serif;
   letter-spacing: 1px;
-  font-size: 3.0rem;
+  font-size: 2.2rem;
   line-height: 1.5;
   font-weight: 700;
 }
 .cd-project-title p {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-family: "Merriweather", serif;
   font-style: italic;
   line-height: 1.2;
@@ -872,7 +866,7 @@ blockquote {
 
 
 .cd-primary-nav .social-icons {
-  margin:30px 28% 0 ;
+  margin:30px 30% 0 ;
   
 }
 
@@ -887,4 +881,11 @@ blockquote {
     font-weight: 100;
     font-family: 'Merriweather', sans-serif !important;
     line-height: 1.8;
+}
+
+
+iframe.iframe-proto{
+  height: 800px;
+  width:125%;
+  margin:0 0 0 -140px;
 }
