@@ -46,7 +46,7 @@ p {
 }
 
 a {
-  color: #a8ae7e;
+  color: #32C4CA !important;
   text-decoration: none !important;
   outline: none !important;
 }
@@ -926,5 +926,10 @@ SVG ICONS
 iframe.iframe-proto{
   display:none;
 }
+
+.reallysmall{
+ display:none;
+}
+
 
 }
