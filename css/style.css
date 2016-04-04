@@ -923,5 +923,8 @@ SVG ICONS
     font-size: 2.0rem !important;
   }
 
+iframe.iframe-proto{
+  display:none;
+}
 
 }
