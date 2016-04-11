@@ -46,7 +46,7 @@ p {
 }
 
 a {
-  color: #32C4CA !important;
+  color: #32C4CA;
   text-decoration: none !important;
   outline: none !important;
 }
